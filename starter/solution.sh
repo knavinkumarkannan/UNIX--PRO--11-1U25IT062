@@ -1,5 +1,5 @@
 cat > state.txt << EOF
-Goa
+Apple 
 Tamil Nadu
 Kerala
 Karnataka
