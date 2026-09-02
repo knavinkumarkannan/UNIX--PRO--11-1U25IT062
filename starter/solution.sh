@@ -1,5 +1,5 @@
 cat > state.txt << EOF
-Apple 
+Apple
 Tamil Nadu
 Kerala
 Karnataka
@@ -10,7 +10,5 @@ Gujarat
 Rajasthan
 Punjab
 EOF
-
-tail -n 3 state.txt
 
 
